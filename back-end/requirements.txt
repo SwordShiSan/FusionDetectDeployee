@@ -1,0 +1,11 @@
+flask
+pyyaml
+matplotlib
+scipy
+tqdm
+pandas
+seaborn
+ultralytics
+einops
+scikit-learn
+scikit-image

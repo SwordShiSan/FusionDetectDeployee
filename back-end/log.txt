@@ -1,0 +1,7 @@
+Fusing layers... 
+ * Serving Flask app 'app'
+ * Debug mode: on
+Fusing layers... 
+1000_ir.jpg
+1000_ir.jpg
+1000_ir.jpg
